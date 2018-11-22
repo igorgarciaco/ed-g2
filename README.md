@@ -1,3 +1,3 @@
 # ed-g2
 
-$ npm i faker 
+$ npm start
