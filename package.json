@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "Faker": "^0.7.2"
+    "Faker": "^0.7.2",
+    "line-reader": "^0.4.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.6"
